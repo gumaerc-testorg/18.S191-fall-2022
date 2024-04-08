@@ -28,7 +28,7 @@ Topics include:
 - Social Science and Data Science
 - Climate Science
 
-Previous versions of this course, with various applications, were taught in [Fall 2019](https://github.com/dpsanders/6.S083_fall_2019/tree/fall_2019), [Spring 2020](https://ocw.mit.edu/courses/mathematics/18-s190-introduction-to-computational-thinking-with-julia-with-applications-to-modeling-the-covid-19-pandemic-spring-2020/), [Fall 2020](https://computationalthinking.mit.edu/Fall20/), and [Spring 2021](https://computationalthinking.mit.edu/Spring21/).
+Previous versions of this course, with various applications, were taught in {{% resource_link "4b9b11e1-697c-4424-9c0f-22526a92af0f" "Fall 2019" %}}, {{% resource_link "9c4988e1-b943-4db8-9bb4-337daa0e2270" "Spring 2020" %}}, {{% resource_link "be1ef8ea-ed6f-4c2e-ba85-fab0b8182a18" "Fall 2020" %}}, and {{% resource_link "2e8702c2-6bda-4706-85b2-78e94de00793" "Spring 2021" %}}.
 
 ## Format
 
@@ -47,4 +47,4 @@ The final grade is 80% problem sets and 20% interactive quick questions.
 
 ## Non-registered Students
 
-Students from outside MIT are welcome to use the course materials and work their way through the lecture videos and homework assignments, though they do not have access to the MIT-only discussion forum on Piazza and may not submit homework for grading. Non-MIT students are encouraged to join the open discussion forum on [Discord](https://discord.com/invite/Z5qnVf8) and find a cross-grading partner there.
+Students from outside MIT are welcome to use the course materials and work their way through the lecture videos and homework assignments, though they do not have access to the MIT-only discussion forum on Piazza and may not submit homework for grading. Non-MIT students are encouraged to join the open discussion forum on {{% resource_link "e6fc47f9-256d-4ddb-8d45-08d5843c0d92" "Discord" %}} and find a cross-grading partner there.
